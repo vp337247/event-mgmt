@@ -211,6 +211,10 @@
   #hero .content h2 {
     text-shadow: 0 0 3px #222;
   }
+#hero .content h1{
+    font-family: 'Brush Script MT',cursive;
+    font-weight: 900;
+  }
   
   #hero .content h2 {
     margin: 15px 0 30px;
